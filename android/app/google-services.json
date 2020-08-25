@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "247511651074",
+    "firebase_url": "https://tesauthentication.firebaseio.com",
+    "project_id": "tesauthentication",
+    "storage_bucket": "tesauthentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247511651074:android:ab566c30627e57a90ba81b",
+        "android_client_info": {
+          "package_name": "com.ricoerlan.tes_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247511651074-1rdb55ulq27t8i5mk70ge7iinnh3ka85.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ricoerlan.tes_authentication",
+            "certificate_hash": "a789e505c817a122ea906ea6eaa3d48b3a30ab18"
+          }
+        },
+        {
+          "client_id": "247511651074-kmltou0mv7s58kinj2in9l4e3oofgoji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAe4nXLvfVaEBKVJN6BVAzcQMdQyp7ZWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247511651074-kmltou0mv7s58kinj2in9l4e3oofgoji.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
